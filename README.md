@@ -31,9 +31,10 @@ Application Web de gestion d'employé et de calcul de salaire, avec un archivage
 
 
 
-## Technos utilisé
+## Technos utilisées
 
 [`POO/PHP javascript Ajax HTML/CSS Bootstrap Mysql`]
 
 
- ### [Author]:Brandon Fidelin Ravomanana(branGitFox)
+ ## Author
+ [BranGitfox](www.github.com/BranGitfox)
