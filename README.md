@@ -35,6 +35,7 @@ Application Web de gestion d'employé et de calcul de salaire, avec un archivage
 
 [`POO/PHP javascript Ajax HTML/CSS Bootstrap Mysql`]
 
+## Periode
 
  ## Author
  [BranGitfox](www.github.com/BranGitfox)
